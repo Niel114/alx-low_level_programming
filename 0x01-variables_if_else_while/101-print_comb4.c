@@ -32,7 +32,7 @@ int main(void)
 			{
 				y++;
 			}
-			else if ((digit1 < 56) && (y == 57))
+			else if ((digit2 < 56) && (y == 57))
 			{
 				y = 1 + ++digit2;
 			}
